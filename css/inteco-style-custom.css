@@ -208,7 +208,7 @@ body.single-post .inteco-sidebar-style-none, body.blog .inteco-sidebar-style-non
 .inteco-body .inteco-top-bar a:hover{ color: #ffffff; } 
 .inteco-top-bar .inteco-top-bar-right-social a, .inteco-body .inteco-header-right-social a{ color: #ffffff; } 
 .inteco-top-bar .inteco-top-bar-right-social a:hover, .inteco-body .inteco-header-right-social a:hover{ color: #b39a96; } 
-.inteco-header-background, .inteco-sticky-menu-placeholder, .inteco-header-style-boxed.inteco-fixed-navigation{ background-color: #0f0f0f; } 
+.inteco-header-background, .inteco-sticky-menu-placeholder, .inteco-header-style-boxed.inteco-fixed-navigation{ background-color: #A0C6B7; } 
 .inteco-header-wrap.inteco-header-style-plain{ border-color: #e8e8e8; } 
 .inteco-header-side-nav.inteco-style-side-toggle .inteco-logo{ background-color: #ffffff; } 
 .inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider{ background: #b39a96; }.inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider{background: -webkit-linear-gradient(to left, rgba(179, 154, 150, 1), rgba(179, 154, 150, 0.1)); background: -o-linear-gradient(to left, rgba(179, 154, 150, 1), rgba(179, 154, 150, 0.1)); background: -moz-linear-gradient(to left, rgba(179, 154, 150, 1), rgba(179, 154, 150, 0.1)); background: linear-gradient(to left, rgba(179, 154, 150, 1), rgba(179, 154, 150, 0.1)); } 
@@ -298,7 +298,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a{ border-color: #7
 .inteco-footer-wrapper a:hover{ color: #ffffff; } 
 .inteco-footer-wrapper, .inteco-footer-wrapper *{ border-color: #444444; } 
 .inteco-copyright-wrapper{ background-color: #111111; } 
-.inteco-copyright-wrapper{ color: #af938f; } 
+.inteco-copyright-wrapper{ color: #A0C6B7; } 
 .inteco-copyright-wrapper a{ color: #838383; } 
 .inteco-copyright-wrapper a:hover{ color: #838383; } 
 .inteco-footer-back-to-top-button{ background-color: #dbdbdb; } 
@@ -473,7 +473,7 @@ blockquote, q, pre{ background-color: #f5f5f5; }
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-title, .gdlr-core-skill-bar-item .gdlr-core-skill-bar-right{ color: #505050; } 
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-icon{ color: #616161; } 
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-progress{ background-color: #f3f3f3; } 
-.gdlr-core-skill-bar-item .gdlr-core-skill-bar-filled{ background-color: #af938f; } 
+.gdlr-core-skill-bar-item .gdlr-core-skill-bar-filled{ background-color: #A0C6B7; } 
 .gdlr-core-flexslider-nav .flex-direction-nav li a, .gdlr-core-flexslider.gdlr-core-nav-style-middle-large .flex-direction-nav li a{ color: #0c0c0c; border-color: #0c0c0c; } 
 .gdlr-core-flexslider-nav.gdlr-core-round-style li a, .gdlr-core-flexslider-nav.gdlr-core-rectangle-style li a{ background-color: #f1f1f1; } 
 .gdlr-core-flexslider .flex-control-nav li a{ border-color: #8a8a8a; }.gdlr-core-flexslider .flex-control-nav li a.flex-active{ background-color: #8a8a8a; }.gdlr-core-flexslider.gdlr-core-bullet-style-cylinder .flex-control-nav li a.flex-active{ background-color: #8a8a8a; } 
