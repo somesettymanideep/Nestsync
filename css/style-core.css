@@ -2214,7 +2214,7 @@ body.admin-bar .inteco-fixed-navigation.inteco-style-slide {
 /* page title */
 
 .inteco-page-title-wrap {
-	background-image: url('../images/page-title-background.jpg');
+	background-image: url('../upload/home/about-background.png')!important;
 	background-position: center;
 	background-size: cover;
 	position: relative;
