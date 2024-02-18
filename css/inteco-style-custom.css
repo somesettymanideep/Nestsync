@@ -60,9 +60,9 @@ html .gdlr-core-product-thumbnail span.onsale{ font-size: 15px; width: 70px; hei
 .gdlr-core-product-grid .gdlr-core-product-title{ font-size: 20px; font-weight: 800; margin-bottom: 8px; }
 .gdlr-core-product-grid .gdlr-core-product-price{ font-size: 18px; }
 
-.gdlr-core-product-item.woocommerce .gdlr-core-product-thumbnail-info{ position: absolute; top: 0; left: 0px; right: 0px; bottom: 0px; background: rgba(255,255,255,0.8); }
+.gdlr-core-product-item.woocommerce .gdlr-core-product-thumbnail-info{ position: absolute; top: 0; left: 0px; right: 0px; bottom: 0px; background: rgba(0, 0, 0, 0.6); }
 .gdlr-core-product-item.woocommerce .gdlr-core-product-thumbnail-info > a{ float: none; width: auto; height: auto; padding: 0px; margin-top: -38px;
-	font-size: 19px; font-weight: 700; position: absolute; left: 0px; right: 0px; top: 50%; bottom: auto; color: #0c0c0c; background: transparent; }
+	font-size: 19px; font-weight: 700; position: absolute; left: 0px; right: 0px; top: 50%; bottom: auto; color: #ffff; background: transparent; }
 .gdlr-core-product-item.woocommerce .gdlr-core-product-thumbnail-info .icon_cart_alt:before{ content: "\e013"; }
 .gdlr-core-product-item.woocommerce .gdlr-core-product-thumbnail-info i{ font-size: 34px; font-weight: normal; line-height: 34px; display: block; margin-bottom: 23px; margin-right: 0px; }
 .gdlr-core-product-item.woocommerce .gdlr-core-product-thumbnail-info > a.added_to_cart:before{ font-size: 34px; font-weight: normal; line-height: 34px; display: block; margin-bottom: 25px; margin-right: 0px; }
