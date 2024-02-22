@@ -129,14 +129,14 @@ body.inteco-boxed .inteco-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .inteco-logo-inner{ max-width: 125px; } 
 @media only screen and (max-width: 999px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 90px; } } 
 @media only screen and (max-width: 767px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 70px; } } 
-.inteco-navigation, .inteco-header-right-social{ padding-top: 88px; }.inteco-navigation-top{ top: 88px; } 
+.inteco-navigation, .inteco-header-right-social{ padding-top: 108px; }.inteco-navigation-top{ top: 88px; } 
 .inteco-navigation .sf-menu > li > a{ padding-bottom: 20px; } 
 .inteco-navigation .inteco-main-menu{ padding-right: 0px; } 
 .inteco-main-menu-right-wrap{ margin-top: 4px; } 
 .inteco-fixed-navigation.inteco-style-slide .inteco-logo-inner img{ max-height: none !important; }.inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-logo-inner, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-logo-inner{ max-width: 80px; } 
 .inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-logo, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-logo{ padding-top: 23px; } 
 .inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-logo, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-logo{ padding-bottom: 30px; } 
-.inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-navigation, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-navigation, .inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-header-right-social{ padding-top: 28px; }.inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-navigation-top, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-navigation-top{ top: 28px; } 
+.inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-navigation, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-navigation, .inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-header-right-social{ padding-top: 38px; }.inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-navigation-top, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-navigation-top{ top: 28px; } 
 .inteco-animate-fixed-navigation.inteco-header-style-plain .inteco-navigation .sf-menu > li > a, .inteco-animate-fixed-navigation.inteco-header-style-boxed .inteco-navigation .sf-menu > li > a{ padding-bottom: 28px; } 
 .inteco-page-title-wrap.inteco-style-custom .inteco-page-title-content{ padding-top: 120px; } 
 .inteco-page-title-wrap.inteco-style-custom .inteco-page-title-content{ padding-bottom: 155px; } 
