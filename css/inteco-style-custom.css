@@ -605,3 +605,12 @@ font-style: normal;
 }
 
 .inteco-item-mgb, .gdlr-core-item-mgb{ margin-bottom: 40px; }
+
+.whatsapp{
+    position: fixed;
+    
+    right: 28px;
+    bottom: 90px;
+    z-index: 99;
+
+}
