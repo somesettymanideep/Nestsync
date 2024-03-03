@@ -461,6 +461,14 @@
         };
         /* ]]> */
     </script>
+          <script type="text/javascript"
+          src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+  </script>
+  <script type="text/javascript">
+     (function(){
+        emailjs.init("UjQZU1NdevXsv8yly");
+     })();
+  </script>
    <script>
     function Mail() {
         if (document.getElementById("name").value == "") {
@@ -495,8 +503,8 @@
         };
     
         // You need to replace 'YOUR_SERVICE_ID' and 'YOUR_TEMPLATE_ID' with actual values.
-        const serviceID = "YOUR_SERVICE_ID"; // Replace with your actual service ID
-        const templateID = "YOUR_TEMPLATE_ID"; // Replace with your actual template ID
+        const serviceID = "service_54hhoyy"; // Replace with your actual service ID
+        const templateID = "template_g9f5u1q"; // Replace with your actual template ID
     
         emailjs.send(serviceID, templateID, params)
             .then(res => {
